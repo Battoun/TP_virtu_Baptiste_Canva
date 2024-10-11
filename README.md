@@ -8,6 +8,6 @@ Partie 1 : ok
 
 Partie 2 : ok
 
-Partie 3 :
+Partie 3 : en cours
 
 Partie 4 :
