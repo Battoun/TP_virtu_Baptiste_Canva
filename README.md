@@ -10,4 +10,4 @@ Partie 2 : ok
 
 Partie 3 : ok
 
-Partie 4 : Bonus
+Partie 4 : ok
